@@ -1,0 +1,6 @@
+<view>
+   <text>图片轮播</text>
+   <view>
+        <image src=""></image>
+   </view>
+</view>
